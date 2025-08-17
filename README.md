@@ -1,5 +1,6 @@
 
-# JobZee - Task 2 (Slytherin Internship)
+# JobZee Jobportal
+
 
 ## 📌 Project Overview  
 **JobZee** is a job portal web application built as part of **Task 2 in the Slytherin Internship**.  
