@@ -85,7 +85,7 @@ or (if using Vite)
 ---
 
 ## 🔖 Tags  
-`#Task2`  `#JobZee` `#FullStackDevelopment`  
+  `#JobZee` `#FullStackDevelopment`  
 
 ## 📬 Contact
 If you like this project, feel free to connect with me!  
